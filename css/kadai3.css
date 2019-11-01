@@ -1,0 +1,32 @@
+h1{
+    color:aqua;
+    font-size:50px;
+    font-weight: bold;
+    font-family:"Impact";
+    text-align: center;
+    background-color: black;
+}
+
+
+
+h2{
+    color:fuchsia;
+    font-size:35px;
+    font-weight: bold;
+    font-family:"Dangerous";
+    text-align: center;
+    background-color: greenyellow;
+}
+
+h3{
+    color:darkviolet;
+}
+p{
+    color: orange;
+}
+body{
+    background-image: url("../images/haikei-1024x768.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: top ;
+}
