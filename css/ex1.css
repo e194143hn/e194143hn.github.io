@@ -1,0 +1,32 @@
+h1{
+    color:black;
+    font-size:50px;
+    font-weight: bold;
+    font-family:"Impact";
+    text-align: center;
+    background-color:cadetblue;
+}
+
+h2{
+    color:aliceblue;
+    font-size:35px;
+    font-weight:bold;
+    font-family:"Impact";
+    text-align: center;
+    background-color:darkgoldenrod;
+}
+
+table{
+    background-color:aqua;
+}
+
+ol{
+    background-image: url("../images/images1.jfif");
+}
+
+body{
+    background-image: url("../images/images.jfif");
+    background-repeat: repeat;
+    background-attachment: fixed;
+    background-position: bottom right;
+}
