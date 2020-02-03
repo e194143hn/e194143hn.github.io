@@ -1,34 +1,29 @@
-.bluecolor{
-    color:aquamarine;
+h1{
+    color:aqua;
+    font-size:50px;
+    font-weight: bold;
+    font-family:"Impact";
+    text-align: center;
+    background-color: black;
+}
+
+
+
+h2{
+    color:fuchsia;
     font-size:35px;
+    font-weight: bold;
+    font-family:"Dangerous";
     text-align: center;
-    background-color:black;
+    background-color: greenyellow;
 }
 
-.redcolor{
-    color:black;
-    font-size:35px;
-    text-align: center;
-    background-color:chartreuse;
+h3{
+    color:darkviolet;
 }
-
-.blue{
-    color:black;
-    text-align: center;
-    background-color:aqua;
+p{
+    color: orange;
 }
-
-.red{
-    color:darkorange;
-    text-align: center;
-    background-color:black;
-}
-
-h1#kudo{
-    font-family :impact;
-    font-size :60px;
-}
-
 body{
     background-image: url("../images/d13546-2028-649373-7.jpg");
     background-repeat: no-repeat;

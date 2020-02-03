@@ -1,0 +1,37 @@
+.bluecolor{
+    color:aquamarine;
+    font-size:35px;
+    text-align: center;
+    background-color:black;
+}
+
+.redcolor{
+    color:black;
+    font-size:35px;
+    text-align: center;
+    background-color:chartreuse;
+}
+
+.blue{
+    color:black;
+    text-align: center;
+    background-color:aqua;
+}
+
+.red{
+    color:darkorange;
+    text-align: center;
+    background-color:black;
+}
+
+h1#kudo{
+    font-family :impact;
+    font-size :60px;
+}
+
+body{
+    background-image: url("../images/images1.jfif");
+    background-repeat: repeat;
+    background-attachment: fixed;
+    background-position: top ;
+}

@@ -1,0 +1,33 @@
+.bluecolor{
+    color:aquamarine;
+    font-size:35px;
+    text-align: center;
+    background-color:aqua;
+}
+
+.redcolor{
+    color:black;
+    font-size:35px;
+    text-align: center;
+    background-color:chartreuse;
+}
+
+.blue{
+    color:black;
+    text-align: center;
+    background-color:aqua;
+}
+
+.red{
+    color:darkorange;
+    text-align: center;
+    background-color:black;
+}
+
+
+body{
+    background-image: url("../images/haikei-1024x768.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: top ;
+}
